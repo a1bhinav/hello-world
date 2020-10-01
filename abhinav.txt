@@ -1,1 +1,14 @@
 Abhinav here.
+
+hello, I am doing this to participate in Hacktoberfest and I think it's not a spam but If you want a code let me write a simple code in c language.
+#include<stdio.h>
+int main(){
+int n;
+scanf("%d",&n);
+for(int i=0;i<n;i++)
+
+{
+printf("*");
+}
+
+}
